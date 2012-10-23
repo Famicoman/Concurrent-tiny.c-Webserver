@@ -1,0 +1,5 @@
+README
+
+Modifications of the "tiny.c" webserver for concurrent operation. One version uses threads while the other uses forks.
+
+Based on tiny.c - A simple, iterative HTTP/1.0 Web server that uses the GET method to serve static and dynamic content.
